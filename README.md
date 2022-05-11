@@ -4,7 +4,7 @@
 
 ## Live Website Link
 
-[booking-app]( https://remarkable-dolphin-784dee.netlify.app/hotels)
+[booking-app](https://remarkable-dolphin-784dee.netlify.app/)
 
 
 
